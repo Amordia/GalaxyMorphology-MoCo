@@ -27,6 +27,10 @@ For a holistic understanding and comparative insight, consider exploring the rel
 - [Semi-Supervised Galaxy Morphology Classification using Convolutional AutoEncoders (CAE)](https://github.com/Amordia/GalaxyMorphology-CAE.git)
 
 ## Project Structure
+- `src/`: Contains the primary source code and model structures.
+- `datasets/`: Datasets used in the project for training, validation, and testing.
+- `results/`: Visualizations and metrics indicating model performance.
+- `models/`: Holds the saved weights and architectures of trained models.
 - `plot.py`: Script for generating result visualizations.
 - `resnet18_MoCo_test.py`: Testing script for the model based on ResNet-18 and MoCo.
 - `MoCo_DNN.py`: Main implementation of the MoCo-based semi-supervised algorithm.
