@@ -41,7 +41,7 @@ For a holistic understanding and comparative insight, consider exploring the rel
 
 2. Clone the repository: 
     ```bash
-    git clone [URL of this repository]
+    git clone [https://github.com/Amordia/GalaxyMorphology-MoCo.git]
     ```
 
 3. Navigate to the project directory:
