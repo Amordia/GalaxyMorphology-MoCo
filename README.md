@@ -23,8 +23,8 @@ By employing MoCo, this project aspires to enhance the accuracy and efficiency o
 MoCo demonstrates a significant potential in the domain of galaxy morphology classification. Preliminary experiments achieved an accuracy rate of around 75% for this task. While this may not surpass some of the existing techniques, the results remain promising when one considers the semi-supervised nature of the approach. Detailed performance metrics and visualizations can be found in the `results/` directory.
 
 For a holistic understanding and comparative insight, consider exploring the related repositories:
-- [Supervised Galaxy Morphology Classification using ResNet50]([LINK_TO_RESNET_REPO](https://github.com/Amordia/GalaxyMorphology-ResNet50.git))
-- [Semi-Supervised Galaxy Morphology Classification using Convolutional AutoEncoders (CAE)]([LINK_TO_CAE_REPO](https://github.com/Amordia/GalaxyMorphology-CAE.git))
+- [Supervised Galaxy Morphology Classification using ResNet50]([LINK_TO_RESNET_REPO](https://github.com/Amordia/GalaxyMorphology-ResNet50.git)
+- [Semi-Supervised Galaxy Morphology Classification using Convolutional AutoEncoders (CAE)]([LINK_TO_CAE_REPO](https://github.com/Amordia/GalaxyMorphology-CAE.git)
 
 ## Project Structure
 - `plot.py`: Script for generating result visualizations.
